@@ -40,7 +40,7 @@
       <Parameter name="file">&world_boundaries;/processed_p</Parameter>
     </Datasource>
 </Layer>
-<Layer name="builtup" status="on" srs="&srsmercator;">
+<Layer name="builtup" status="off" srs="&srsmercator;">
     <StyleName>builtup</StyleName>
     <Datasource>
       <Parameter name="type">shape</Parameter>

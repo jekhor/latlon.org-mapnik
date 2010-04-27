@@ -6,6 +6,7 @@
 <!ENTITY layer-ferry-routes SYSTEM "layer-ferry-routes.xml.inc">
 <!ENTITY layer-aerialways SYSTEM "layer-aerialways.xml.inc">
 <!ENTITY layer-placenames SYSTEM "layer-placenames.xml.inc">
+<!ENTITY layer-placenames-be SYSTEM "layer-placenames-be.xml.inc">
 <!ENTITY layer-amenity-stations SYSTEM "layer-amenity-stations.xml.inc">
 <!ENTITY layer-amenity-symbols SYSTEM "layer-amenity-symbols.xml.inc">
 <!ENTITY layer-amenity-points SYSTEM "layer-amenity-points.xml.inc">
