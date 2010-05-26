@@ -6353,7 +6353,7 @@
       &datasource-settings;
     </Datasource>
 </Layer>
-&layer-ferry-routes;
+<!--&layer-ferry-routes;-->
 &layer-aerialways;
 <Layer name="roads" status="on" srs="&osm2pgsql_projection;">
     <!--StyleName>roads-casing</StyleName-->
