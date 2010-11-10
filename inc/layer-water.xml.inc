@@ -90,7 +90,7 @@
     </Rule>
     <Rule>
       <Filter>[waterway]='river'</Filter>
-      &maxscale_zoom12;
+      &maxscale_zoom11;
       &minscale_zoom12;
       <LineSymbolizer>
         <CssParameter name="stroke">#b5d0d0</CssParameter>
@@ -98,6 +98,7 @@
         <CssParameter name="stroke-linejoin">round</CssParameter>
         <CssParameter name="stroke-linecap">round</CssParameter>
       </LineSymbolizer>
+      <TextSymbolizer name="name" fontset_name="book-fonts" size="10" fill="#6699cc" halo_radius="1" placement="line" min_distance="200"/>
     </Rule>
     <Rule>
       <Filter>[waterway]='river'</Filter>
@@ -109,6 +110,7 @@
         <CssParameter name="stroke-linejoin">round</CssParameter>
         <CssParameter name="stroke-linecap">round</CssParameter>
       </LineSymbolizer>
+      <TextSymbolizer name="name" fontset_name="book-fonts" size="10" fill="#6699cc" halo_radius="1" placement="line" min_distance="200"/>
     </Rule>
     <Rule>
       <Filter>[waterway]='river'</Filter>
@@ -120,6 +122,7 @@
         <CssParameter name="stroke-linejoin">round</CssParameter>
         <CssParameter name="stroke-linecap">round</CssParameter>
       </LineSymbolizer>
+      <TextSymbolizer name="name" fontset_name="book-fonts" size="10" fill="#6699cc" halo_radius="1" placement="line" min_distance="200"/>
     </Rule><Rule>
       <Filter>[waterway]='river'</Filter>
       &maxscale_zoom15;
@@ -130,6 +133,7 @@
         <CssParameter name="stroke-linejoin">round</CssParameter>
         <CssParameter name="stroke-linecap">round</CssParameter>
       </LineSymbolizer>
+      <TextSymbolizer name="name" fontset_name="book-fonts" size="11" fill="#6699cc" halo_radius="1" placement="line" min_distance="200"/>
     </Rule>
     <Rule>
       <Filter>[waterway]='river'</Filter>
@@ -141,6 +145,7 @@
         <CssParameter name="stroke-linejoin">round</CssParameter>
         <CssParameter name="stroke-linecap">round</CssParameter>
       </LineSymbolizer>
+      <TextSymbolizer name="name" fontset_name="book-fonts" size="12" fill="#6699cc" halo_radius="1" placement="line" min_distance="200"/>
     </Rule>
     <Rule>
       <Filter>[waterway]='river'</Filter>
