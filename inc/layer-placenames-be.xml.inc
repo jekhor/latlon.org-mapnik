@@ -98,15 +98,15 @@
     </Rule>
 </Style>
 <Style name="suburb">
-    <Rule>
+<!--    <Rule>
       <Filter>[place] = 'suburb'</Filter>
       &maxscale_zoom12;
       &minscale_zoom13;
       <TextSymbolizer name="name" fontset_name="book-fonts" size="10" fill="#000" halo_radius="1" wrap_width="0"/>
-    </Rule>
+    </Rule>-->
     <Rule>
       <Filter>[place] = 'suburb'</Filter>
-      &maxscale_zoom14;
+      &maxscale_zoom12;
       <TextSymbolizer name="name" fontset_name="book-fonts" size="13" fill="#777777" halo_radius="1" wrap_width="0"/>
     </Rule>
 </Style>
