@@ -1,6 +1,6 @@
 <Style name="interpolation">
     <Rule>
-      &maxscale_zoom17;
+      &maxscale_zoom16;
       <LineSymbolizer>
         <CssParameter name="stroke">#888</CssParameter>
         <CssParameter name="stroke-width">1</CssParameter>
@@ -10,13 +10,13 @@
 </Style>
 <Style name="way_numbers">
     <Rule>
-      &maxscale_zoom17;
+      &maxscale_zoom16;
       <TextSymbolizer name="addr:housenumber" fontset_name="book-fonts" size="9" fill="#444" dy="0" wrap_width="0"/>
     </Rule>
 </Style>
 <Style name="node_numbers">
     <Rule>
-      &maxscale_zoom17;
+      &maxscale_zoom16;
       <TextSymbolizer name="addr:housenumber" fontset_name="book-fonts" size="9" fill="#444" dy="0" wrap_width="0"/>
     </Rule>
 </Style>
